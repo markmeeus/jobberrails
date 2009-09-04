@@ -76,7 +76,7 @@ div#skip { display:none;}
 div#container { width:950px; text-align:left; font-size:1.2em; min-height: 600px;  height: auto !important; height: 100%; margin: 0 auto 0em; }
 div#header { height:120px; width:950px; position:relative;}
 div#header h1#logo { width:347px; height:80px; position:absolute; top:25px; left:20px; }
-div#header h1#logo a { width:347px; height:80px; outline:0; background: url(/images/logo-trans.png) 0 0 no-repeat; text-indent:-1000em; float:left; }
+div#header h1#logo a { width:347px; height:80px; outline:0; background: url(/images/jobchoy-logo.gif) 0 0 no-repeat; text-indent:-1000em; float:left; }
 div#header ul#top {position:absolute; top:20px; right:20px;}
 div#header ul#top li{display:inline; margin-left:2px; background-color:transparent; color:#0099CC;}
 
